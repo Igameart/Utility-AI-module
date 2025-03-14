@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ExampleStates",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ExampleStates",
+  "parent":{
+    "name":"UtilityAI",
+    "path":"folders/UtilityAI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

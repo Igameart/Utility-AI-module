@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ScoreMappings",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ScoreMappings",
+  "parent":{
+    "name":"UtilityAI",
+    "path":"folders/UtilityAI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

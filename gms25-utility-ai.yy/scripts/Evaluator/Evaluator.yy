@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Evaluator",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Evaluator",
+  "parent":{
+    "name":"UtilityAI",
+    "path":"folders/UtilityAI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

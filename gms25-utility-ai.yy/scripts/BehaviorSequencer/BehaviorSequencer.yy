@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"BehaviorSequencer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BehaviorSequencer",
+  "parent":{
+    "name":"UtilityAI",
+    "path":"folders/UtilityAI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,8 +1,8 @@
-# Utility AI module for Game Maker Studio 2.3+
+# Utility AI module for Game Maker Studio 2024+
 ### Modern solution for dealing with emergent behaviour.
 ---
 
-![Teaser](./media/gms2-utility-ai.gif)
+![Teaser](./media/gms25-utility-ai.gif)
 
 ## Table of contents
 
